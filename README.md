@@ -1,6 +1,8 @@
 ## jihun-io
-<img src="https://dev.jihun.io/static/images/dev_meta.png" width="50%" height="50%">
 
+<!-- <img src="https://dev.jihun.io/static/images/dev_meta.png" width="50%" height="50%">%% -->
+
+ 
 > “테크놀로지에 상상력을 더하다”
 > 
 > 예술은 기술을 예견하고, 기술은 예술을 인도합니다.
