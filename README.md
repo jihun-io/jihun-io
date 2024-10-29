@@ -15,6 +15,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihun-io&layout=compact)
 
-## 포트폴리오도 보러 가기!
+## 포트폴리오
 
 [https://dev.jihun.io](https://dev.jihun.io)
