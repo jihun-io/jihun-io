@@ -14,7 +14,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-[https://dev.jihun.io](https://dev.jihun.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihun-io&layout=compact)
 
 > “테크놀로지에 상상력을 더하다”
 > 
@@ -26,4 +26,3 @@
 
 이러한 가치를, 더 많은 사람들과 함께 나누고 싶습니다.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihun-io&layout=compact)
